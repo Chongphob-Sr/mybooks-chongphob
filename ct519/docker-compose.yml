@@ -6,7 +6,7 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_USER: admin
+      MYSQL_USER: user
       MYSQL_PASSWORD: sm@rt
       MYSQL_DATABASE: mybooks_db
     volumes:

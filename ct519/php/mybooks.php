@@ -84,7 +84,7 @@
     <?php
     // Database connection settings
     $host = 'db'; // MySQL host name (the service name in the docker-compose.yml)
-    $user = 'admin'; // MySQL username (replace with your actual username)
+    $user = 'user'; // MySQL username (replace with your actual username)
     $password = 'sm@rt'; // MySQL password (replace with your actual password)
     $database = 'mybooks_db'; // MySQL database name
 
