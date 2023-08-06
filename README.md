@@ -6,7 +6,7 @@ Structure architecture
 แยกระบบออกเป็นหน้าบ้านและหลังบ้าน โดยใช้หน้าบ้านเป็น html+css+bootstrap และหลังบ้านเป็น php และฐานข้อมูลเป็น mysql ที่เป็น relation database และใช้ cloud Aws docker แบ่งเป็น frontend และ backend แยก container กัน ส่วน cloud ที่ใช้ deploy นั้นจะเป็น aws ec2
 
 Description
-Canonical, Ubuntu, 22.04 LTS, arm64 jammy image build on 2023-05-16
+Canonical, Ubuntu, 22.04 LTS, arm64 jammy image build on 2023-05-16 
 
 สถาปัตยกรรม (Architecture) = 64-bit(Arm) 
 AMI ID = ami-0666798135ce10443
