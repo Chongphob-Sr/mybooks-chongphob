@@ -5,7 +5,7 @@ FROM php:7.4-apache
 RUN docker-php-ext-install mysqli
 
 # Copy the project files into the container
-COPY ./php /var/www/html/
+COPY ./php/ /var/www/html/
 
 # Set the working directory
 WORKDIR /var/www/html
