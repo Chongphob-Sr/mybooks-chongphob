@@ -146,7 +146,7 @@
     $conn->close();
     ?>
 
-    <button class="add-button" onclick="location.href='add.php'">Add a Book</button>
+    <button class="add-button" onclick="location.href='addbook.php'">Add a Book</button>
 
     <nav>
         <ul>
